@@ -8,8 +8,10 @@
 <body>
     
 <?php
- echo " Welcome to Git !"
+ echo " Welcome to Git ! Hope you enjoy it"
  ?>
- 
+
+
+
 </body>
 </html>
